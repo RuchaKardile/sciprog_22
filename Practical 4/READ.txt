@@ -1,1 +1,2 @@
-
+The written program approximates the area under the function f(x)=tan(x) between the points a=0 and b=60 (angles measured in degrees) 
+using the Trapezoidal rule
